@@ -121,10 +121,6 @@ class ScreenshotsCreator:
         combined_screenshot_path = os.path.join(folder_name, "combined_screenshot.png")
         combined_image.save(combined_screenshot_path)
 
-        self.info_msg(f"Complete screenshot saved: {Fore.CYAN + combined_screenshot_path + Fore.GREEN}")
-
-        msg_down = '╚════════════╩════════════╩════════════╩════════════╩════════════╩════════════╩════════════╩════════════╝\n'
-        print(Fore.RED + Style.BRIGHT + msg_down + Style.RESET_ALL)
 
     def run_program(self):
         # Main program execution
