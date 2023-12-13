@@ -1,0 +1,10 @@
+time ==3.11.4
+os==3.11.4
+fade==0.0.9
+Pillow==10.1.0
+PyAutoGUI==0.9.54
+colorama==0.4.6
+
+
+
+
