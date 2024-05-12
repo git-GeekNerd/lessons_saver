@@ -36,7 +36,7 @@ content that require scrolling.
         ```bash
         pyinstaller --onefile --icon=pdf.ico lessons_saver.py
         ```
-    - It will create `lessons_saver.exe` in the `dist` folder.
+    - It will create `lessons_saver.exe` in the `dist` folder. (or just use basic python lessons_saver.py)
 
 🚀 Happy screenshotting!
 
