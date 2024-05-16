@@ -32,7 +32,7 @@ content that require scrolling.
     ```
 
 3. **Usage**
-    - Navigate to the project folder using the command prompt and run the following command to build an executable file:
+    - Navigate to the project folder using the command prompt and run the following command:
         ```bash
         python lessons_saver.py
         ```
