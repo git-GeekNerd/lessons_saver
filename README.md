@@ -34,9 +34,9 @@ content that require scrolling.
 3. **Usage**
     - Navigate to the project folder using the command prompt and run the following command to build an executable file:
         ```bash
-        pyinstaller --onefile --icon=pdf.ico lessons_saver.py
+        python lessons_saver.py
         ```
-    - It will create `lessons_saver.exe` in the `dist` folder. (or just use basic python lessons_saver.py)
+    - It will run the program. You can also start the program by clicking on the `start.bat` file.
 
 🚀 Happy screenshotting!
 
